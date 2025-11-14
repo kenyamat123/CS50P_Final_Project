@@ -8,7 +8,7 @@
 
 ### City, State, Country: Cameron, MO USA
 
-### Video Demo: URL
+### Video Demo: https://youtu.be/Of2XiyX-Whk
 
 ### Date of Video: 11/14/2025
 
