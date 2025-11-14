@@ -20,6 +20,7 @@ class TodoList:
     def get_tasks(self):
         return self.tasks
 
+
 def main():
     todo_list = TodoList()
     print("Welcome to your To-Do List!")
@@ -69,6 +70,7 @@ def main():
             break
         else:
             print("Invalid choice. Please try again.")
+
 
 if __name__ == "__main__":
     main()
